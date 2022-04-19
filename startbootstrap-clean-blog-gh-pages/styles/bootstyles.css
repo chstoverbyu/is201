@@ -1,0 +1,33 @@
+header{
+top:100px;
+left:100px;
+right:100px;
+bottom:60px;
+text-align: center;
+}
+
+body{
+    top:200px;
+    bottom:200px;
+    right:200px;
+    left:200px;
+    text-align: center;
+    background-color:beige;
+    font-size: 50px;
+}
+footer{
+top:100px;
+left:100px;
+right:100px;
+bottom:60px;
+text-align: center;
+font-size: 25px;
+}
+
+h1,h2,h3,h4,h5,h6,h7,h8,h9
+{
+font-size: 50px;
+font-style: italic;
+color: red;
+text-align: center;
+}
